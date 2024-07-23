@@ -17,10 +17,10 @@ CREATE TABLE `webhookconfiguration` (
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4;
 
 for run file -> 
-python config.py
-python select-data.py
-python create-data.py
-python update-data.py
+-python config.py
+-python select-data.py
+-python create-data.py
+-python update-data.py
 
 ![python-image-select](https://github.com/user-attachments/assets/9ff2dded-98e8-43a4-b0f1-4aee7336144f)
 ![python-image-update](https://github.com/user-attachments/assets/75b23586-1bfb-44f1-977e-eb4e9bb57a34)
